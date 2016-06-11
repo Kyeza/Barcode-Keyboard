@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Barcode Keyboard</string>
+    
+    <string name="barcode_keyboard_settings">Barcode settings</string>
+
+    <!-- Labels for subtype -->
+    <string name="label_subtype_generic">%s</string>
+    <string name="label_subtype_en_GB">English (GB)</string>
+</resources>
